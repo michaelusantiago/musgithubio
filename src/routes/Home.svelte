@@ -2,7 +2,7 @@
   import me from "@/assets/me.jpg"
 </script>
 
-<div>
+<main>
   <div class="image-container">
     <img
       class="my-image"
@@ -20,7 +20,7 @@
       <a href=https://michaelsantiago.ca>https://michaelsantiago.ca</a>.
     </p>
     <br />
-    <a href="#/cv">Curriculum Vitae</a>
+    <a href="#/cv"><b>Curriculum Vitae</b></a>
   </section>
   <br />
   <h3>💪 I'm the <a href="https://neontech.vercel.app" target="_blank" rel="noreferrer">NeonTech</a> anyway...</h3>
@@ -29,9 +29,13 @@
     <hr />
     <p>MICHAEL SANTIAGO © 2023</p>
   </footer>
-</div>
+</main>
 
 <style>
+  main {
+    max-width: 800px;
+  }
+
   .my-name { text-transform: uppercase; }
 
   .image-container {
@@ -48,5 +52,7 @@
   footer { font-size: 0.9rem; }
   footer p { padding: 3px; }
 
-  hr { border-style: dotted; }
+  hr {
+    border-top-style: dashed;
+  }
 </style>

@@ -11,21 +11,23 @@
 </script>
 
 <main>
-    <div class="head">
-        <h1 class="my-name">Michael Santiago</h1>
-        <h4>Full Stack Web App Developer</h4>
-    </div>
-    <hr />
+    <div class="printable">
+        <div class="head">
+            <h1 class="my-name">Michael Santiago</h1>
+            <h4>Full Stack Web App Developer</h4>
+        </div>
+        <hr />
 
-    <div class="body">
-        <!-- Projects -->
-        <Projects />
+        <div class="body">
+            <!-- Projects -->
+            <Projects />
 
-        <!-- Work Experience -->
-        <WorkExperience />
+            <!-- Work Experience -->
+            <WorkExperience />
 
-        <!-- Education -->
-        <Education />
+            <!-- Education -->
+            <Education />
+        </div>
     </div>
 
     <hr />
@@ -59,5 +61,12 @@
         display: flex;
         place-content: center;
         align-items: center;
+    }
+
+    @media print {
+        footer { display: none; }
+        .printable {
+            font-family: Verdana, serif;
+        }
     }
 </style>

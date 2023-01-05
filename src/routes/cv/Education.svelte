@@ -29,7 +29,7 @@
 
         <!-- Palawan National High School -->
         <div class="body">
-            <p class="year">1999 - 2000</p>
+            <p class="year">1995 - 1999</p>
             <div class="wrapper">
                 <b>Secondary</b>
                 <div class="details">

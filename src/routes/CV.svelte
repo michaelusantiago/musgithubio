@@ -65,8 +65,5 @@
 
     @media print {
         footer { display: none; }
-        .printable {
-            font-family: Verdana, serif;
-        }
     }
 </style>

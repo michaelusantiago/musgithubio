@@ -15,6 +15,7 @@
         <div class="head">
             <h1 class="my-name">Michael Santiago</h1>
             <h4>Full Stack Web App Developer</h4>
+            <h5>[Svelte/SvelteKit, Javascript/TypeScript, NodeJS, SQL, MongoDB]</h5>
         </div>
         <hr />
 

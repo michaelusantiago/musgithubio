@@ -6,7 +6,7 @@
         <h3>Work Experience</h3>
         <!-- Systems Technical Suppoert (FADOMS) -->
         <div class="body">
-            <p class="year">Present</p>
+            <p class="year">June 07, 2022 - Present</p>
             <div class="wrapper">
                 <div class="details">
                     <p class="title">Systems Technical Support</p>

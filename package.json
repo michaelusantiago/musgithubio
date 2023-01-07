@@ -19,6 +19,7 @@
     "vite": "^4.0.0"
   },
   "dependencies": {
+    "remixicon": "^2.5.0",
     "svelte-spa-router": "^3.3.0"
   }
 }

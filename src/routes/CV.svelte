@@ -13,9 +13,17 @@
 <main>
     <div class="printable">
         <div class="head">
-            <h1 class="my-name">Michael Santiago</h1>
-            <h4>Full Stack Web App Developer</h4>
-            <h5>[Svelte/SvelteKit, Javascript/TypeScript, NodeJS, SQL, MongoDB]</h5>
+            <div class="left-info" >
+                <h1 class="my-name">Michael Santiago</h1>
+                <h3>Full Stack Web App Developer</h3>
+                <h4>[Svelte/SvelteKit, Javascript/TypeScript, NodeJS, SQL, MongoDB]</h4>
+            </div>
+            <div class="right-info">
+                <h4>Contact</h4>
+                <p><i class="ri-global-line"></i>&nbsp;https://michaelusantiago.github.io</p>
+                <p><i class="ri-mail-line"></i>&nbsp;michael.u.santiago@gmail.com</p>
+                <p><i class="ri-cellphone-line"></i>&nbsp;+639957221274</p>
+            </div>
         </div>
         <hr />
 
@@ -48,6 +56,19 @@
         text-align: left;
         padding: 20px;
         margin: auto;
+    }
+
+    .head {
+        display: flex;
+        place-content: center;
+        justify-content: flex-start;
+        gap: 3px;
+    }
+    .head .left-info { flex:3; }
+    .head .right-info { flex: 1; }
+    .head .right-info p {
+        display: flex;
+        align-items: center;
     }
 
     .my-name { text-transform: uppercase; }

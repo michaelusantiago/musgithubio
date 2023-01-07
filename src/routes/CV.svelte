@@ -22,7 +22,7 @@
                 <h4>Contact</h4>
                 <p><i class="ri-global-line"></i>&nbsp;https://michaelusantiago.github.io</p>
                 <p><i class="ri-mail-line"></i>&nbsp;michael.u.santiago@gmail.com</p>
-                <p><i class="ri-cellphone-line"></i>&nbsp;+639957221274</p>
+                <p><i class="ri-cellphone-line"></i>&nbsp;+639957221724</p>
             </div>
         </div>
         <hr />

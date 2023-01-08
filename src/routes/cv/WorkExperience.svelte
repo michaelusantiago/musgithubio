@@ -64,7 +64,7 @@
                     </p>
                     <div class="description">
                         <ul>
-                            <li>Assist in the implementation of various Information Systems in the Hospital such as the Hospital Operations and Managament Systesm (HOMIS) and other system that will be implemented by the DOH such as Personal Information System (PIS), Payroll System, etc..</li>
+                            <li>Assist in the implementation of various Information Systems in the Hospital such as the Hospital Operations and Management System (HOMIS) and other system that will be implemented by the DOH such as Personal Information System (PIS), Payroll System, etc..</li>
                             <li>Troubleshoots and conducts regular monthly monitoring and maintenance of computer (hardware and software), network and telecommunications system installed.</li>
                             <li>Designs and develops computerized system when needed.</li>
                             <li>Provide technical assistance to Ospital Ng Palawan personnel on matters regarding Information and Communication Technology.</li>
